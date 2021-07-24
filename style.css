@@ -164,7 +164,7 @@ body {
   padding: 20px;
 }
 .footer-box img {
-  width: 120px;
+  width: 120px !important;
   margin-bottom: 20px;
 }
 .footer-box .fa {
